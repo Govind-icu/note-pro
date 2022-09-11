@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "ddb4d31690f4df0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfbfeaf17e85994f",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "83. Trusted Signers.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a416fd72b2e87709",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e0790c4d591c6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c033cb89ca1898",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "40c00f82bf16cbfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c884270baab5666b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2f03c4138fb46e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81d8a1d79102879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6da606bdff9878f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "83. Trusted Signers.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3df04f294523522",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "83. Trusted Signers.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d68659e4d4b8ff4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76665c58d5ddeda8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "83. Trusted Signers.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfbfeaf17e85994f",
+  "lastOpenFiles": [
+    "81. Trusted Signers.png",
+    "80. Trusted Signers.png",
+    "79. Trusted Signers.png",
+    "8. EDR Evasion/15. Driver Signature Enforcement.md",
+    "8. EDR Evasion/14. Kernel Callbacks.md",
+    "8. EDR Evasion/13. User Defined Reflective Loader.md",
+    "8. EDR Evasion/12. Syscalls & ArtifactKit.md",
+    "8. EDR Evasion/11. SysWhispers.md",
+    "8. EDR Evasion/10. GetSyscallStub.md",
+    "8. EDR Evasion/9. Syscalls.md"
+  ]
+}
